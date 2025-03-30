@@ -1,4 +1,4 @@
-Locale Emulator
+Locale Emulator 大航海4
 ===============
 
 [![license](https://img.shields.io/github/license/xupefei/Locale-Emulator.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
